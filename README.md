@@ -6,3 +6,4 @@ connect the cluster before the creation of keyspace.
 Add the webcam or your rtsp camera
 execute for the face recognition
 For any advancements, Train the model iteratively.
+For identifying others add the taining process and find it.
