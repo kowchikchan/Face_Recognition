@@ -1,0 +1,5 @@
+Any IDE like pycharm or IntelliJ.
+Installing the dependencies.
+python >= 3.8
+OpenCV
+Cassandra DB >=3.17
